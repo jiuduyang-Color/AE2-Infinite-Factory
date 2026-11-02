@@ -12,7 +12,7 @@
 | --- | --- | --- | --- |
 | 1.x | `AE2.Infinite.Factory.zip` | 约 44 MB | [下载 v1.0.0](https://github.com/jiuduyang-Color/AE2-Infinite-Factory/releases/download/v1.0.0/AE2.Infinite.Factory.zip) |
 | 2.0.0 | `AE2.Infinite.Factory-2.0.0.zip` | 约 181 MB | [下载 v2.0.0](https://github.com/jiuduyang-Color/AE2-Infinite-Factory/releases/download/v2.0.0/AE2.Infinite.Factory-2.0.0.zip) |
-| 3.0.0 | `AE2.Infinite.Factory-3.0.0.zip` | 约 573 MB | [下载 v3.0.0](https://github.com/jiuduyang-Color/AE2-Infinite-Factory/releases/download/v3.0.0/AE2.Infinite.Factory-3.0.0.zip) |
+| 3.0.0 | `AE2.Infinite.Factory-3.0.0.zip` | 约 18 MB | [下载 v3.0.0](https://github.com/jiuduyang-Color/AE2-Infinite-Factory/releases/download/v3.0.0/AE2.Infinite.Factory-3.0.0.zip) |
 
 ## 安装
 
