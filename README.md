@@ -16,8 +16,8 @@
 
 ## 安装
 
-1. 安装对应版本的 Minecraft 与整合包启动器（推荐 CurseForge App 或 Prism / HMCL）。
-2. 下载 zip 后，直接导入启动器（或解压到 `instances` 目录）。
+1. 安装对应版本的 Minecraft 与整合包启动器（推荐 CurseForge App 或  HMCL）。
+2. 下载 zip 后，直接导入启动器。
 3. 首次启动前请给游戏分配足够的内存（3.0.0 建议 6 GB 以上）。
 
 ## 说明
